@@ -7,6 +7,7 @@ class App < Sinatra::Base
   end
 
   # Add your post route and action below
-  post 
+  post '/food' do
+    
 
 end
